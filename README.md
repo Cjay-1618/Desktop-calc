@@ -26,6 +26,10 @@ A simple, responsive calculator built with plain HTML, CSS and JavaScript.
 
 ![Demo Badge](https://img.shields.io/badge/demo-GitHub%20Pages-blue)
 
+![Project screenshot](./screenshot.svg)
+
+---
+
 Summary
 -------
 This project is a lightweight calculator that supports basic arithmetic, parentheses, percentage, trigonometric functions, factorial, and a few math constants (π, e). It's implemented with vanilla front-end technologies so it's easy to read and reuse in interviews or a portfolio.
