@@ -1,6 +1,11 @@
+
 # Calculator Project
 
 Small HTML/CSS/JS calculator located in this folder.
+
+Live demo: [https://cjay-1618.github.io/Desktop-calc/](https://cjay-1618.github.io/Desktop-calc/)
+
+![Live demo](https://img.shields.io/badge/demo-GitHub%20Pages-blue)
 
 How to push to your Git remote:
 
