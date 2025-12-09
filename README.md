@@ -26,7 +26,7 @@ A simple, responsive calculator built with plain HTML, CSS and JavaScript.
 
 ![Demo Badge](https://img.shields.io/badge/demo-GitHub%20Pages-blue)
 
-![Project screenshot](./screenshot.svg)
+![Project screenshot](assets/screenshot.png)
 
 ---
 
