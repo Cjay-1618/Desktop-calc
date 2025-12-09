@@ -19,3 +19,6 @@ git push -u origin main
 ```
 
 If you want me to add the remote and push for you, provide the remote URL (HTTPS or SSH).
+
+<!-- Trigger Pages rebuild -->
+Last rebuilt: 2025-12-09  (trigger commit)
